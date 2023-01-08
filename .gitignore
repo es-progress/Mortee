@@ -1,4 +1,7 @@
-﻿/.vs/Mortee
+﻿# Visual Studio files
+/.vs
+# Build results
 /bin
 /obj
-/Mortee.csproj.user
+# User-specific files
+*.user
