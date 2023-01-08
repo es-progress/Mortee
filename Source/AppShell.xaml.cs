@@ -1,4 +1,4 @@
-﻿namespace Mortee;
+﻿namespace ESProgress.Mortee;
 
 public partial class AppShell : Shell
 {

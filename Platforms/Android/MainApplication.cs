@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Mortee;
+namespace ESProgress.Mortee;
 
 [Application]
 public class MainApplication : MauiApplication

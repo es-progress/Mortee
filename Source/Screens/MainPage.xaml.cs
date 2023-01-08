@@ -1,4 +1,4 @@
-﻿namespace Mortee;
+﻿namespace ESProgress.Mortee.Screens;
 
 public partial class MainPage : ContentPage
 {
